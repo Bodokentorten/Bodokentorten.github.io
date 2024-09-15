@@ -1,0 +1,2 @@
+### Onslaught (Persistente)
+Cuando realiza ataques cuerpo a cuerpo o de pelea, la criatura puede apuntar a todos los enemigos al alcance simultáneamente. La criatura realiza un solo lanzamiento de dados, y cada objetivo hace su propia tirada de defensa.

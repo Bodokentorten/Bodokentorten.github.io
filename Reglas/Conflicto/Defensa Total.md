@@ -1,0 +1,3 @@
+### Defensa Total
+
+Lo opuesto a perder los estribos. Un personaje que se concentra únicamente en su protección y nada más (excepto, quizás, una acción menor; consulta la página 18) obtiene un dado de bonificación en todas las tiradas de defensa durante el turno. Si el personaje tiene acceso a cobertura sólida y puede ocultarse completamente detrás de ella, esta ventaja puede hacerlo invulnerable a los ataques a distancia, siempre y cuando no sea flanqueado (ver Maniobras, arriba).

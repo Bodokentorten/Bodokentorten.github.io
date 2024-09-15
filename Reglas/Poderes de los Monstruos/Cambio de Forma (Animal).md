@@ -1,0 +1,2 @@
+### Cambio de Forma (Animal)
+La criatura puede tomar la forma de cualquier animal listado en su habilidad. El cambio lleva un turno completo, durante el cual solo puede esquivar ataques. En algunos casos, la ropa y el equipo también forman parte del cambio, pero esto depende de cada situación.

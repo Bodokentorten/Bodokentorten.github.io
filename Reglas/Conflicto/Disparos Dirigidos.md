@@ -1,0 +1,9 @@
+### Disparos Dirigidos
+
+En general, en un combate se asume que los combatientes intentan ser lo más efectivos posible. Sin embargo, algunas troupes prefieren un combate más detallado que les permita apuntar a ubicaciones específicas.
+
+Un combatiente puede buscar dirigir sus ataques hacia una parte específica de su objetivo con el fin de lograr un resultado distinto al máximo daño físico: disparar a las llantas de un automóvil, desarmar a un oponente o disparar una bala en la pierna de un informante que huye. Los “disparos dirigidos” también se utilizan al intentar decapitar a alguien o al tratar de clavar una estaca en el corazón de un vampiro.
+
+Para hacerlo, el atacante declara su acción y el objetivo antes de lanzar los dados para su ataque. Después de la prueba del atacante, se restan los éxitos; golpear una ubicación específica no solo es más difícil, sino que también reduce la probabilidad de lograr un impacto seguro en el centro de masa. Por lo general, el modificador es de -2 éxitos, aunque el Narrador puede modificar este número hacia arriba o hacia abajo según la naturaleza del objetivo. Disparar a las llantas de un automóvil podría incurrir en una penalización de -1, mientras que perforar la línea de combustible de un avión despegando se hace con una penalización de -4.
+
+El efecto exacto de un disparo dirigido queda a criterio del Narrador, pero no debería limitarse simplemente a causar más daño, ya que ese es el propósito asumido de un ataque normal. En cambio, los disparos dirigidos suelen apuntar a causar menos daño, buscando una incapacitación no letal a expensas de la efectividad: incapacidad para correr y huir, neumáticos desinflados, líneas de combustible perforadas, etc.

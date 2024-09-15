@@ -1,0 +1,5 @@
+### Armas Disfrazadas
+
+Las armas disfrazadas están ganando popularidad en un mundo donde la violencia es una solución omnipresente, pero también hay un mayor escrutinio por parte de las fuerzas de seguridad autocráticas, los controles policiales aleatorios y las inspecciones aduaneras. Pueden tomar la forma de una espada oculta en el bastón de un vampiro anacrónico, una pluma fuente calibre .22 de un agente de una organización o incluso extraños artefactos creados por tecnohechiceros.
+
+Crear un arma disfrazada requiere una prueba de Inteligencia + una Especialidad o Habilidad apropiada. Detectar una generalmente requiere una prueba de Astucia + Conciencia con una Dificultad de 1 + la Destreza sigilosa del portador o la habilidad de fabricación del creador (la que sea más alta). Debido a que no pueden estar adecuadamente equilibradas o moldeadas, penalizan al usuario con un dado menos en su reserva de ataque a menos que el creador haya obtenido una victoria crítica en su prueba de fabricación.

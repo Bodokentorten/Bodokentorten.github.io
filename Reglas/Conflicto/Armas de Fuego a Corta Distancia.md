@@ -1,0 +1,3 @@
+### Armas de Fuego a Corta Distancia
+
+Si te encuentras en combate cuerpo a cuerpo, el portador de un arma de fuego utiliza Fuerza + Armas de Fuego contra la reserva de Brawl (pelea) o Melee (combate cuerpo a cuerpo) del oponente. El oponente no recibe una penalización por falta de cobertura. En cambio, el usuario del arma de fuego sufre una penalización de -2 dados si apunta a alguien fuera de la refriega, así como una penalización adicional de -2 para armas de fuego más grandes que una pistola.

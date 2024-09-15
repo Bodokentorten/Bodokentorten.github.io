@@ -1,0 +1,7 @@
+#Ayudas
+
+# El dado de recursos
+
+Conocí esta mecánica gracias al juego de rol **Cthulhu Hack**, que la integra como parte de su gestión de recursos, y desde entonces se ha ganado un hueco en mi corazoncito para todo tipo de escenas. Es sencillo, en lugar de contar las flechas de tu carcaj, la resistencia de tu espada, las balas de tu pistola o la cordura de tu personaje, les das un valor con un dado entre el **d4** (poco) y **d12** (mucho). Cada vez que empleas el recurso lanzas el dado que le corresponde. Si tiene mucho valor lanzas un **d12**; si el resultado es un **1** o un **2**, el recurso disminuye un dado, ahora será un **d10**. Si no sacas un **1** o un **2** el recurso no se gasta lo suficiente como para que nos interese. Cuando solo te queda el **d4** y sacas un **1** o un **2**, el recurso se agota (balas o flechas), la espada se rompe o la cordura llega a cero. Si tu espada está en un **d6** de resistencia sabes que necesitas un herrero. Cuando el herrero te la haya arreglado puede que recupere valor y tenga **d10** de resistencia otra vez. Si se saca una pifia en una tirada, y tiene sentido, una de las consecuencias puede ser bajar un dado de recursos.
+
+Esta mecánica es efectiva cuando lo que nos interesa en la partida no es estar sumando y restando recursos, sino tener una idea aproximada de cuántos te quedan y seguir jugando. Puedes emplear el dado de recursos para un montón de situaciones diferentes, desde la resistencia de animales y vehículos al conteo de munición.

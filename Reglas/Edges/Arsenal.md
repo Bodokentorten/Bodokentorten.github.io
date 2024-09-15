@@ -1,0 +1,15 @@
+#Edges #Assets
+
+### Arsenal
+
+El Cazador tiene acceso a una amplia variedad de armas que normalmente no están disponibles para el público, o puede improvisarlas. Esto incluye tanto armas de fuego como armas cuerpo a cuerpo, pero no bombas, minas u otras municiones. Ya sea prestadas por un antiguo contacto o ensambladas en un garaje, las armas son por lo demás mundanas y solo están disponibles por un tiempo limitado. Después de eso, las armas deben devolverse a quien las proporcionó, requerir un mantenimiento extenso o simplemente descomponerse debido a su improvisación (lo que sea más apropiado para la escena).
+
+**Pool:** Los Cazadores que mantienen y cuidan su propio arsenal prueban Inteligencia + Oficio. Aquellos que dependen de contactos prueban Manipulación + Conocimiento de la Calle.
+
+**Sistema:** En una prueba exitosa con una Dificultad de 4, el Cazador puede proporcionar una sola arma personal de fuego o cuerpo a cuerpo, como un rifle de francotirador, una pistola o una hoja de combate de acero de alta calidad. La prueba se realiza al comienzo de una escena, y el Cazador debe tener un acceso razonable a su reserva de suministros o contacto. (Ningún éxito, por crítico que sea, va a producir un arma en medio del Sahara). La prueba solo se puede intentar una vez por escena, y el arma solo se puede usar durante esa escena. Pruebas posteriores en escenas posteriores pueden proporcionar la misma arma o una similar.
+
+**Perks del Arsenal:**
+- **Requisición en Equipo:** El Cazador puede proporcionar copias adicionales de la misma arma hasta el margen del éxito. Las armas proporcionadas tienen los mismos beneficios (si los hay) y están sujetas a la misma duración limitada.
+- **Características Especiales:** El arma proporcionada tiene una serie de características especiales hasta el margen del éxito. Estas características pueden variar desde miras térmicas hasta estuches disfrazados, y el Narrador es el árbitro final de lo que califica como una característica para estos fines. Las características especiales pueden tomarse de algunas de las listas de Equipamiento (ver p. 101), pero los jugadores también deben tener la opción de sugerir soluciones aún más creativas y únicas basadas en lo que han aprendido sobre la presa de su célula en una caza particular.
+- **Exóticas:** Se pueden adquirir armas y municiones raras o únicas. Estas pueden ir desde balas de plata hasta dagas de obsidiana pre-olmeca. La Dificultad de la prueba aumenta en el caso de armas realmente raras o únicas, según lo determine el Narrador. Los armamentos no son inherentemente sobrenaturales, pero pueden explotar vulnerabilidades especiales de la presa (como es el caso de esas balas de plata).
+- **Inrastreables:** Las armas adquiridas son completamente inrastreables y nunca llevarán a las autoridades o a la presa hasta los Cazadores por sí mismas.

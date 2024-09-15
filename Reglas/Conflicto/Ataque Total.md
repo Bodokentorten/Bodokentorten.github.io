@@ -1,0 +1,3 @@
+### Ataque Total
+
+A veces, un combatiente quiere volverse loco, desechando la seguridad a cambio de un mayor efecto. En este caso, el atacante recibe un bono de +1 al daño, pero no puede defenderse contra ningún ataque. Si se utiliza un arma a distancia, esta táctica también vacía el arma. Esta opción no puede usarse con la sorpresa. Si el ataque falla, cualquiera que actúe contra el combatiente obtiene un dado adicional en sus reservas para el próximo turno.

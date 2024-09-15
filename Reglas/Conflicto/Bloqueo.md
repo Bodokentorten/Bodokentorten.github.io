@@ -1,0 +1,5 @@
+### Bloqueo
+
+El bloqueo es la acción de oponerse activamente a las acciones de otro personaje. Esto puede lograrse posicionando al propio personaje frente a un atacante, distrayendo a alguien que está tratando de reunir apoyo, disparando fuego supresor, entre otras cosas. Cuando bloqueas, el jugador establece el resultado del lanzamiento de dados de bloqueo como oposición a la acción que estás bloqueando. Esto puede utilizarse directamente en un enfrentamiento (consulta la sección de sistemas de dados del libro de reglas correspondiente) o puede establecer una Dificultad para el intento de acción de otra persona, a discreción del Narrador.
+
+A veces también es posible bloquear el bloqueo de alguien más. Si ese es el objetivo, se prueba en el eslabón más lejano de la cadena de bloqueos primero, y si se tiene éxito, el bloqueo posterior no tiene lugar.

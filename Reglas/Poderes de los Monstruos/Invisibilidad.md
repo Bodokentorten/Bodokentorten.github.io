@@ -1,0 +1,2 @@
+### Invisibilidad
+Ya sea doblando la luz o convenciendo al cerebro de sus víctimas para que lo ignoren, la criatura puede hacerse efectivamente invisible. Cualquier intento de detectarla se realiza con una Dificultad de +3, si el Narrador incluso lo permite. A menos que se indique lo contrario, la invisibilidad no puede ocultar interacciones evidentes o actos violentos, como ataques directos, y cualquier acción de este tipo hace que la criatura sea inmediatamente visible.

@@ -1,0 +1,9 @@
+#Reglas #Mecanicas #Físicas
+
+### Shadowing
+
+Un personaje sigue a otro manteniéndolo a la vista, idealmente sin ser notado. Las habilidades utilizadas varían considerablemente según quién sabe qué. Si el perseguidor no es descubierto, se utiliza la suma de Astucia (Wits) + Percepción (Awareness) contra la Resolución (Resolve) + Callejeo (Streetwise) del objetivo (esto representa las precauciones normales). Si el objetivo tiene éxito, el seguidor es descubierto. Si el seguidor es descubierto pero no sabe que lo han detectado, se utiliza Astucia (Wits) + Sigilo (Stealth) o Callejeo (Streetwise) contra Astucia (Wits) + Percepción (Awareness) para evadir la vigilancia. Si todos saben que están siendo seguidos, la acción ya no es “shadowing” (seguimiento sigiloso); ahora se trata de una **persecución**.
+
+Se otorgan dados adicionales al perseguidor en áreas concurridas cuando el objetivo no está consciente de la vigilancia. Sin embargo, si el objetivo sabe que lo siguen y está tratando de deshacerse del perseguidor, se otorgan los dados adicionales al objetivo en lugar del perseguidor. En áreas muy concurridas o con muchas salidas y puntos ciegos (como parques arbolados, estaciones de tren o grandes almacenes), se otorgan uno o dos dados adicionales, respectivamente.
+
+A menos que los posibles ayudantes sean maestros del disfraz (o puedan cambiar de forma para parecerse al objetivo), solo el lado del perseguidor se beneficia del trabajo en equipo. Los vampiros que usan la disciplina de Ofuscación u otras entidades sobrenaturales que utilizan sus propios poderes pueden no necesitar hacer pruebas en absoluto para seguir a los mortales.

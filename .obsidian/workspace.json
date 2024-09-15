@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "9938415ff989f56b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c444211a51ca06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4112f270a0b1ad",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery",
+              "state": {}
+            }
+          },
+          {
+            "id": "8df2dca25be4176b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6d6eb2708d13fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f325788688f915e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8d5ce38f6fa47a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c1adaaa19b7dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Imágenes/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ca19d13e5e81706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "b9d497a446286f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "749bfdf388fe1af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed30f1e06fc408e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25295965f22f7cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0e79c7ce5c65392",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d55471212984b2c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "05a976b30ffd2f1a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a93cb48c16624f2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cfde5e0bb733a89",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery-info",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-gallery:Gallery": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "8df2dca25be4176b",
+  "lastOpenFiles": [
+    "bodokentorten.github.io",
+    "Hunter-Net",
+    "Reglas/Tablas.md",
+    "Reglas/Poderes y debilidades de los Monstruos.md",
+    "Reglas/Plantillas de SPC.md",
+    "Reglas/Pantalla del Narrador.canvas",
+    "Reglas/Mecánicas Básicas.md",
+    "Reglas/Habilidades.md",
+    "Reglas/Edges.md",
+    "Reglas/Dificultades.md",
+    "Reglas/Conflicto.md",
+    "Reglas/Backgrounds, Méritos y Defectos.md",
+    "Reglas/Reglas de la Casa/Estabilidad y Cordura - Borrador.md",
+    "Reglas/Reglas de la Casa/Estabilidad y Cordura.md",
+    "Reglas/Reglas de la Casa/El dado de recursos.md",
+    "Reglas/Reglas de la Casa/Combate.md",
+    "Reglas/Poderes de los Monstruos/Resiliencia (Persistente).md",
+    "Reglas/Poderes de los Monstruos/Regeneración (X Salud, Persistente).md",
+    "Reglas/Poderes de los Monstruos/Presciencia (X grupo).md",
+    "Reglas/Poderes de los Monstruos/Onslaught (Persistente).md",
+    "Reglas/Poderes de los Monstruos/Mandato (X grupo).md",
+    "Reglas/Poderes de los Monstruos/Invisibilidad.md",
+    "Reglas/Poderes de los Monstruos/Encanto (X grupo).md",
+    "Reglas/Poderes de los Monstruos/Embestida (Rush).md",
+    "Reglas/Poderes de los Monstruos/Cambio de Forma (Animal).md",
+    "Reglas/Poderes de los Monstruos/Aterrorizar (X grupo).md",
+    "Reglas/Méritos/Situaciones Sobrenaturales.md",
+    "Reglas/Méritos/Rasgos Psicológicos.md",
+    "Imágenes/Rifle.png",
+    "Imágenes/ifle.png",
+    "Imágenes/icons8-sniper-rifle-64.png.crdownload",
+    "Imágenes/Ambientación/Refugio Seguro - Nico.jpg",
+    "Imágenes/Mapas/Refugio Seguro - Nico.svg",
+    "Imágenes/objetos/Potion.jpg",
+    "Imágenes/Ambientación/En la vereda.jpg",
+    "Imágenes/Ambientación/Casa de los espejos.png",
+    "Imágenes/Ambientación/La casa de los espejos.jpg",
+    "Adjuntos/Pasted image 20240811024632.png",
+    "Adjuntos/Pasted image 20240811022653.png",
+    "PDF/Conflicto.pdf",
+    "PDF/Backgrounds, Méritos y Defectos - Original.pdf",
+    "Imágenes/Retratos/Ena Wenckheim.jfif",
+    "Imágenes/Retratos/_b049040e-ca29-4225-bb74-d84a1f5f17c5.jfif.crdownload",
+    "10 - Aventuras/Reflejos/Sin confirmar 768685.crdownload",
+    "10 - Aventuras/Reflejos/Logs",
+    "10 - Aventuras/Reflejos/La casa de los espejos.canvas",
+    "Imágenes/Mapas/Recursos/Auto.png.~tmp",
+    "Imágenes/Mapas/Recursos/Cyberpunk-Cars-map-assets-Base-cars.jpg.~tmp"
+  ]
+}

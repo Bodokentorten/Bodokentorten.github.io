@@ -1,0 +1,5 @@
+### Lanzallamas
+
+Los lanzallamas portátiles de la Segunda Guerra Mundial, Corea y Vietnam son raros y voluminosos, mientras que los lanzallamas comerciales más modernos son más compactos y portátiles, y algunos ni siquiera están regulados como armas propiamente dichas. Sin embargo, todos los lanzallamas eliminan el "potencial" del "daño colateral". Su alcance es limitado, pero sus efectos convierten la mayoría de los campos de batalla en un infierno en llamas. Muy pocos Cazadores utilizan estos, ya que el riesgo de desastre es demasiado alto.
+
+Los lanzallamas infligen +0 de daño Agravado cuando alcanzan al objetivo y cada turno posterior. También hacen que todo en el entorno arda, ya que rocían una nube indiscriminada de gas o líquido en llamas. Solo la inmersión en agua (seguida de la eliminación del material), arena u otro material similar detendrá la quemadura.

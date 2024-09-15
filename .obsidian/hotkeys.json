@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/Template - Impresión.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}

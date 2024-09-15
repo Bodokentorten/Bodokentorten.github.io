@@ -1,0 +1,2 @@
+### Embestida (Rush)
+Capaz de moverse en ráfagas cegadoras de velocidad, el monstruo puede cerrar la brecha con un enemigo o desaparecer en un abrir y cerrar de ojos. Si se utiliza mientras el monstruo está fuera del alcance cuerpo a cuerpo pero aún cerca en la escena, la habilidad permite instantáneamente que la criatura ataque a una víctima en combate cercano, como si estuviera comprometida al comienzo del turno. También se puede usar para romper el combate, permitiendo que la criatura escape a pie y gane una ventaja de un turno, a menos que esté atrapada o acorralada.

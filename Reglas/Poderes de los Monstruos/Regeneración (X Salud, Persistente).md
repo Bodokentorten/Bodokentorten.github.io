@@ -1,0 +1,2 @@
+### Regeneración (X Salud, Persistente)
+La criatura sana o repara un número fijo de niveles de Salud por turno. Primero se recuperan los daños superficiales, seguidos de los daños agravados. Los daños infligidos por fuentes de Vulnerabilidad (ver más abajo) no pueden regenerarse con esta habilidad.

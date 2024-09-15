@@ -1,0 +1,13 @@
+{
+  "showInlineTitle": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "Adjuntos",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 96
+  }
+}

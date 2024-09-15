@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"189b872e4f305a4b","type":"group","x":-80,"y":-640,"width":1040,"height":1840,"color":"4","label":" Protagonistas"},
+		{"id":"371b627d219b84d8","type":"group","x":-848,"y":360,"width":748,"height":976,"color":"2","label":"Armas y Armaduras"},
+		{"id":"c656abb1872ddfed","type":"group","x":-1560,"y":360,"width":700,"height":976,"color":"5","label":"Control de Aventura"},
+		{"id":"0295b2cb3477fee0","type":"group","x":-59,"y":800,"width":999,"height":536,"color":"1","label":"Mecánicas"},
+		{"id":"c873c16b1ce77e36","type":"text","text":"###### **Aptitudes:**\n```dataview\nLIST \nFROM \"01 - Reglas/Edges\" and #Aptitudes  \n```","x":-60,"y":99,"width":260,"height":320,"color":"1"},
+		{"id":"0ff6a1cca43e7639","type":"text","text":"###### **Endowments:**\n```dataview\nLIST \nFROM \"01 - Reglas/Edges\" and #Endowments   \n```","x":-60,"y":463,"width":260,"height":280,"color":"1"},
+		{"id":"4b4ec6988af3eef0","type":"text","text":"# Escenas de la Aventura (Reflejos)\n\n","x":-1540,"y":556,"width":660,"height":328},
+		{"id":"3a25bc7f405fd2c5","type":"text","text":"# Aventura: \n- [[La casa de los espejos.canvas]] (Canvas)\n- **[[Reflejos - Esquema.excalidraw|Reflejos]]** (Excalidraw) \n\n","x":-1540,"y":380,"width":660,"height":140,"color":"2"},
+		{"id":"a0a552cfacabba52","type":"text","text":"# Log del Narrador","x":-1540,"y":920,"width":660,"height":400,"color":"5"},
+		{"id":"612c2a0d219538f3","type":"text","text":"# Reglas de la Casa\n- [[Estabilidad y Cordura|Voluntad y Cordura]]\n- [[El dado de recursos]]","x":-2160,"y":1108,"width":585,"height":228,"color":"1"},
+		{"id":"8fadcdc2c0f885c6","type":"text","text":"# [[Mecánicas Básicas|Resumen de Reglas]]","x":-2160,"y":946,"width":585,"height":134,"color":"1"},
+		{"id":"3ebdd8ba1c9e101f","type":"text","text":"# Personajes Jugadores\n```dataview\nLIST\nFROM \"30 - Personajes Jugadores\"\n```","x":-60,"y":-621,"width":260,"height":296,"color":"4"},
+		{"id":"e3751d4fd1292fbe","type":"text","text":"![[Backgrounds, Méritos y Defectos#Méritos]]","x":221,"y":-621,"width":718,"height":352,"color":"4"},
+		{"id":"7e3ba993f33caaef","type":"text","text":"![[Backgrounds, Méritos y Defectos#Backgrounds]]","x":221,"y":-229,"width":718,"height":925,"color":"4"},
+		{"id":"e342db80124b4161","type":"text","text":"# Edges","x":-60,"y":-282,"width":260,"height":75,"color":"1"},
+		{"id":"4487aef5c1596ab3","type":"text","text":"###### **Assets:**\n```dataview\nLIST \nFROM \"01 - Reglas/Edges\" and #Assets \n```","x":-60,"y":-164,"width":260,"height":220,"color":"1"},
+		{"id":"5e202d6ffeee02b0","type":"text","text":"### Mecánicas Físicas\n\n```dataview\ntable \nfrom #Mecanicas and #Físicas \n```\n","x":-59,"y":800,"width":340,"height":536,"color":"1"},
+		{"id":"1dc36a10150095f4","type":"text","text":"### Mecánicas Sociales\n\n```dataview\ntable \nfrom #Mecanicas and #Sociales \n```","x":292,"y":800,"width":319,"height":536,"color":"1"},
+		{"id":"008f09b41c1014b9","type":"text","text":"![[Tablas#^Armas]]","x":-832,"y":380,"width":716,"height":465,"color":"1"},
+		{"id":"93251a0836159557","type":"text","text":"![[Tablas#^Armaduras]]","x":-832,"y":885,"width":716,"height":255,"color":"1"},
+		{"id":"ff0c4ee12735f9e0","type":"text","text":"### Tipos de SPC\n\n- [[Plantillas de SPC#^SPC-Debil|Débil]]\n- [[Plantillas de SPC#^SPC-Promedio|Promedio]]\n- [[Plantillas de SPC#^SPC-Dotado|Dotado]]\n- [[Plantillas de SPC#^SPC-Superlativo|Superlativo]]","x":-1560,"y":-640,"width":438,"height":202,"color":"2"},
+		{"id":"90aa079b854eac18","type":"text","text":"### Poderes de los Monstruos\n\n```dataview\nLIST\nFROM \"01 - Reglas/Poderes de los Monstruos\"\n```","x":-1560,"y":-418,"width":438,"height":398,"color":"2"},
+		{"id":"30429075ed154dcb","type":"text","text":"# Debilidades de los Monstruos\n\n```dataview\nList\nfrom #Monstruos and #Debilidades \n```","x":-1560,"y":0,"width":438,"height":300,"color":"2"},
+		{"id":"f794402c6c5df117","type":"text","text":"# Combate & Conflictos\n![[Conflicto#^Conflictos-Contenido]]","x":-1100,"y":-640,"width":425,"height":340,"color":"1"},
+		{"id":"0c6817d806c59fcc","type":"text","text":"# Opciones Adicionales al Conflicto\n![[Conflicto#^Conflicto-OpcionesAdicionales]]","x":-1100,"y":-260,"width":425,"height":560,"color":"1"},
+		{"id":"448158c9c48f6329","type":"text","text":"```meta-bind-button\nlabel: Habilidades\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: primary\nactions:\n  - type: open\n    link: \"[[Habilidades]]\"\n\n```","x":221,"y":711,"width":197,"height":75,"color":"1"},
+		{"id":"56527ce7519d88d2","type":"text","text":"# Dificultades\n\n![[Dificultades#^Dificultades]]","x":-640,"y":-640,"width":540,"height":840,"color":"1"},
+		{"id":"465dae521969ca24","type":"text","text":"### Mecánicas Mentales\n\n```dataview\ntable\nfrom #Mecanicas and #Mentales \n```","x":621,"y":800,"width":319,"height":536,"color":"1"}
+	],
+	"edges":[
+		{"id":"a5454e9b090fb4da","fromNode":"e342db80124b4161","fromSide":"bottom","toNode":"4487aef5c1596ab3","toSide":"top","color":"2"},
+		{"id":"c219e288554c2e55","fromNode":"4487aef5c1596ab3","fromSide":"bottom","toNode":"c873c16b1ce77e36","toSide":"top","color":"2"},
+		{"id":"c3b25ef76c64f18f","fromNode":"c873c16b1ce77e36","fromSide":"bottom","toNode":"0ff6a1cca43e7639","toSide":"top","color":"2"},
+		{"id":"7fec2bfc230d1533","fromNode":"f794402c6c5df117","fromSide":"bottom","toNode":"0c6817d806c59fcc","toSide":"top","color":"2"}
+	]
+}
